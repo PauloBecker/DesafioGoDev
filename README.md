@@ -5,3 +5,10 @@ Para executar o programa, basta clonar o projeto do github para sua IDE de prefe
 
 # clonar repositório
 git clone https://github.com/PauloBecker/DesafioGoDev.git
+
+# Autor
+
+Paulo becker
+
+https://www.linkedin.com/in/paulo-becker-89550177/
+
